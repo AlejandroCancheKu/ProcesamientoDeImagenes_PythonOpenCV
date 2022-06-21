@@ -9,5 +9,7 @@ _Cosas que necesitas para correr el software_
 3. Instalar OpenCV para python con el comando **pip install opencv-python**
 4. Finalmente ejecutar con el comando **python Convolusion.py**
 
-### Ejecución del software de procesamiento de imágenes
+### Ejecución del software de procesamiento de imágenes (Interfaz gráfica)
+
+![Imagen1Py](https://user-images.githubusercontent.com/101384740/174721938-b84d277b-5edc-4df6-bf49-58fc668aacf7.png)
 
